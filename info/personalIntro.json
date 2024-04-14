@@ -30,5 +30,24 @@
       "name": "Simplified Chinese",
       "link": "https://drive.google.com/file/d/1HY7ZK2mKBlnuScn660tTNfOZX5a9sLOw/view?usp=sharing"
     }
+  ],
+  "education": [
+    {
+      "id": "QUT",
+      "institution": "Queensland University of Technology",
+      "degree": "Master of IT, Computer Science",
+      "Awards": [
+        "2x QUT Executive Dean's Commendation for Academic Excellence (GPA: 6.9/7.0, 99%)",
+        "QUT Best Research Paper Awards 2023"
+      ],
+      "date": "Feb. 2023 - Jun. 2024"
+    },
+    {
+      "id": "UQ",
+      "institution": "The University of Queensland",
+      "degree": "Bachelor of Science, Chemistry",
+      "Awards": [],
+      "date": "Feb. 2015 - Dec. 2017"
+    }
   ]
 }
