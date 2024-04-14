@@ -1,4 +1,22 @@
 {
   "name": "Ta-Chun Lin | TC.",
-  "description": ["ML Engineer", "Software Engineer", "MCompSc."]
+  "description": ["ML Engineer", "Software Engineer", "MCompSc."],
+  "socialMedia": [
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/andrewtclin/"
+    },
+    {
+      "name": "Medium",
+      "link": "https://medium.com/@chuntcdj"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com/andrewtclin/"
+    },
+    {
+      "name": "CV",
+      "link": "https://drive.google.com/file/d/16oDl6uHZiTqCTZ4N2gaJCpFiKgTQNqCO/view?usp=sharing"
+    }
+  ]
 }
