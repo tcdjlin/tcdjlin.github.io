@@ -58,9 +58,10 @@
       "company": "Spingence Technology",
       "date": "Oct. 2020 - Jan. 2023",
       "job_summary": [
-        "Automates Industrial Process with AI Defect Detection Models: Successfully used limited defective product samples to decrease missed detection rate by 50% and maximize product yield.",
-        "Model Training & Research: Responsible of testing and integrating SOTA models, including classification/ detection/ segmentation/ explainable AI.",
-        "Developed Innovative Image Storage Platform: Storing image hierarchically with varying user permissions, along with self-built image labelling tools with label formats. Processed images can be directly into AI trainer without using third-party labelling tool, acting as “one-stop solution”."
+        "Industrial AI Training & Research: With limited defective product samples, decreased missed detection rate by 50% and maximize product yield; Responsible of testing and integrating SOTA models, including classification/ detection/ segmentation/ explainable AI. (Project: 3).",
+        "Development of AI Trainer: Built with PyTorch, Flask, React and Azure - allowing cients to train their own AI models, with customizable image uploads, model finetuning, and inference (Projects: 4).",
+        "Development of Image Storage System: Built with Flask, MongoDB, and React - providing users with varying user permissions to perform CRUD on training images, and perform image preprocessing. (Projects: 4).",
+        "Key Skills: PyTorch, TensorFlow, ReactJS, Flask, Python, MongoDB, Azure, CI/CD Pipelines"
       ]
     },
     {
@@ -69,8 +70,8 @@
       "company": "Sinon Corporation Business Groups, KSI Inc.",
       "date": "Dec. 2018 - Sep. 2020",
       "job_summary": [
-        "Development of ERP Accounting Systems for Taiwan's Central Government: With .NET MVC framework, Add, Read, Update, Delete of large data using efficient and secure SQL Stored Procedure.",
-        "Development of Food Ordering Platform: Group Ordering functionality that integrates with POS machine."
+        "Development of ERP Systems for Government Departments: Built with .NET MVC, MSSQL, and Angular JS – performing CRUD on data, SQL stored procedures applied to optimize performance, and avoid information vulnerabilities. Projects are considered one of the largest ERP systems in Taiwan (Project: 5)",
+        "Key Skills: C# .NET Framework, AngularJS, MSSQL, Testing Protocols"
       ]
     },
     {
@@ -79,9 +80,8 @@
       "company": "JAStudio Technology (Freelance Software Business)",
       "date": "Jan. 2019 - Jan. 2023",
       "job_summary": [
-        "Co-manages a Freelance Software Business: https://jastudio-tech.com/",
-        "ML-Related Projects: Customed trained ML models and integrated in developed software.",
-        "Software-Related Projects: Developed full-stack software for clients: ERP systems, desktop, web-based."
+        "Freelance Software Business: https://jastudio-tech.com/",
+        "Delivered Projects in AI and Software: Specified in Project Experience Page (Projects: 1, 6)."
       ]
     }
   ],
