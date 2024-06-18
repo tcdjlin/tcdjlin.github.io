@@ -53,7 +53,7 @@
   ],
   "workExperience": [
     {
-      "id": "QUT",
+      "id": "qut",
       "title": "Master’s Research & Projects",
       "company": "Queensland University of Technology (QUT)",
       "date": "Feb. 2023 - Jul. 2024",
@@ -227,7 +227,7 @@
     },
     {
       "id": "erp-geological",
-      "title": "AI-Powered ERP Geological Database System",
+      "title": "AI-Powered ERP Geological System",
       "type": "Software: ERP",
       "description": "Enterprise ERP system with complex data flow and calculations.",
 
