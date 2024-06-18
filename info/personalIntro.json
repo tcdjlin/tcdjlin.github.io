@@ -21,7 +21,7 @@
     }
   ],
   "youtube": "https://www.youtube.com/watch?v=p1jCz3IyCsY",
-  "summary": "I am an AI/ML Engineer and Software Engineer with 5+ years of experience. In AI sector, I have created powerful industrial computer vision applications, which are now one of the most extensively used Industrial 4.0 solutions in Taiwan's AI-driven Industrial Automation landscape; In Software Engineering, I have participated in developing large complex ERP systems and applications for several Taiwan's Central Government Departments.",
+  "summary": "I am an AI/ML Engineer and Software Engineer with several years of experience. In AI sector, I have created powerful industrial computer vision applications, which are now one of the most extensively used Industrial 4.0 solutions in Taiwan's AI-driven Industrial Automation landscape; In Software Engineering, I have participated in developing large complex ERP systems and applications for several Taiwan's Central Government Departments.",
   "cnCVs": [
     {
       "name": "Traditional Chinese",
@@ -53,10 +53,22 @@
   ],
   "workExperience": [
     {
+      "id": "QUT",
+      "title": "Master’s Research & Projects",
+      "company": "Queensland University of Technology (QUT)",
+      "date": "Feb. 2023 - Jul. 2024",
+      "job_summary": [
+        "AI & Data Science: Researching downtime events in manufacturing, and mining for potential problems via Feature Engineering, and using PCA and K-Means for dimensionality reduction and analysis (Project: 2); Using semi-supervised learning for Computer Vision project, reducing the cost of labels, and perform modeling. (PyTorch & Scikit-Learn)",
+        "Computer Science: Developing full stack large geological mining ERP system, ensuring the data performance and security, using Django and SQL Stored Procedures (Project: 1).",
+        "Development of Image Storage System: Built with Flask, MongoDB, and React - providing users with varying user permissions to perform CRUD on training images, and perform image preprocessing. (Projects: 4).",
+        "Awarded: 2x QUT Academic Excellence (GPA 6.88/7.0; 98%); QUT Best Research Paper Awards 2023 (Project: 2)"
+      ]
+    },
+    {
       "id": "spingence",
       "title": "Full Stack Engineer (Computer Vision & Software)",
       "company": "Spingence Technology",
-      "date": "Oct. 2020 - Jan. 2023",
+      "date": "Oct. 2020 - Jan. 2022",
       "job_summary": [
         "Industrial AI Training & Research: With limited defective product samples, decreased missed detection rate by 50% and maximize product yield; Responsible of testing and integrating SOTA models, including classification/ detection/ segmentation/ explainable AI. (Project: 3).",
         "Development of AI Trainer: Built with PyTorch, Flask, React and Azure - allowing cients to train their own AI models, with customizable image uploads, model finetuning, and inference (Projects: 4).",
@@ -68,7 +80,7 @@
       "id": "ksi",
       "title": "Software Engineer",
       "company": "Sinon Corporation Business Groups, KSI Inc.",
-      "date": "Dec. 2018 - Sep. 2020",
+      "date": "Jan. 2020 - Sep. 2020",
       "job_summary": [
         "Development of ERP Systems for Government Departments: Built with .NET MVC, MSSQL, and Angular JS – performing CRUD on data, SQL stored procedures applied to optimize performance, and avoid information vulnerabilities. Projects are considered one of the largest ERP systems in Taiwan (Project: 5)",
         "Key Skills: C# .NET Framework, AngularJS, MSSQL, Testing Protocols"
@@ -214,6 +226,15 @@
       "github": ""
     },
     {
+      "id": "erp-geological",
+      "title": "AI-Powered ERP Geological Database System",
+      "type": "Software: ERP",
+      "description": "Enterprise ERP system with complex data flow and calculations.",
+
+      "link": "https://www.behance.net/gallery/197961995/Geological-Database-System/",
+      "github": ""
+    },
+    {
       "id": "erp-accounting",
       "title": "Enterprise ERP Accounting System",
       "type": "Software: ERP",
@@ -267,7 +288,8 @@
         "Machine Learning",
         "Deep Learning",
         "Data Science",
-        "Software Engineering"
+        "Software Engineering",
+        "Science Research"
       ]
     },
     {
@@ -275,6 +297,7 @@
       "skills": [
         "PyTorch",
         "TensorFlow",
+        "Scikit-Learn",
         "LangChain",
         "ReactJS",
         "Vue",
