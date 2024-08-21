@@ -20,7 +20,7 @@
       "link": "https://drive.google.com/file/d/16oDl6uHZiTqCTZ4N2gaJCpFiKgTQNqCO/view?usp=sharing"
     }
   ],
-  "youtube": "https://www.youtube.com/watch?v=p1jCz3IyCsY",
+  "youtube": "https://www.youtube.com/watch?v=w3j5insI4Fw",
   "summary": "I love programming and technology! I have a strong background in full-stack software development, machine learning. My experience includes working on large-scale ERP systems and AI models in Industrial 4.0 sectors. Also, it includes architectural patterns like MVC and object-oriented design patterns such as Factory Method. At QUT, I’m recognized as one of the top students (GPA 6.83/7.0) and received the Best Research Paper Award in AI 2023. To me, a career is a life ambition. Together, we can achieve remarkable milestones.",
   "cnCVs": [
     {
@@ -39,14 +39,15 @@
       "degree": "Master of IT, Computer Science",
       "Awards": [
         "3x QUT Executive Dean's Commendation for Academic Excellence (GPA: 6.83/7.0, 98%)",
-        "QUT Best Research Paper Awards 2023"
+        "QUT Best Research Paper Awards 2023",
+        "Selected Representative of Master of Information Technology."
       ],
       "date": "Feb. 2023 - Jul. 2024"
     },
     {
       "id": "UQ",
       "institution": "The University of Queensland",
-      "degree": "Bachelor of Science, Chemistry",
+      "degree": "Bachelor of Science",
       "Awards": [],
       "date": "Feb. 2015 - Dec. 2017"
     }
@@ -58,8 +59,8 @@
       "company": "Queensland University of Technology (QUT)",
       "date": "Feb. 2023 - Jul. 2024",
       "job_summary": [
-        "AI Research: Analyzed manufacturing downtime using PCA and K-Means for dimensionality reduction, translating findings into actionable insights (Project: 2).",
-        "Software Development: Developed a full-stack ERP system for an AI mining company using Django and SQL Stored Procedures, ensuring data performance and security; Automated CI/CD pipelines to perform testing (Project: 1).",
+        "AI Research: Analyzed manufacturing downtime using PCA and K-Means for dimensionality reduction, translating findings into actionable insights.",
+        "Software Development: Developed a full-stack ERP system for an AI mining company using Django and SQL Stored Procedures, ensuring data performance and security; Automated CI/CD pipelines to perform testing.",
         "Achievements: Consistent Academic Excellence; Best Research Paper 2023; Graduated with Distinction"
       ]
     },
@@ -69,9 +70,9 @@
       "company": "Spingence Technology",
       "date": "Oct. 2020 - Jan. 2022",
       "job_summary": [
-        "Industrial AI Model Training: Reduced missed detection rate by 50% within accepted overkill rate, and finetuned models for optimal yield; tested SoTA models, including classification, detection, segmentation. (Project: 3).",
-        "AI Software Development: Created frontend and backend of an edge AI Trainer with PyTorch, Flask, React, and Azure, enabling clients to train, finetune, and deploy AI models; Incorporated deployment version control tags (Projects: 4).",
-        "Image Storage Software Development: Developed frontend and backend of an image storage platform with different user permissions to save, access, preprocess training images with Flask, MongoDB, and React (Projects: 4)."
+        "Industrial AI Model Training: Reduced missed detection rate by 50% within accepted overkill rate, and finetuned models for optimal yield; tested SoTA models, including classification, detection, segmentation.",
+        "AI Software Development: Created frontend and backend of an edge AI Trainer with PyTorch, Flask, React, and Azure, enabling clients to train, finetune, and deploy AI models; Incorporated deployment version control tags.",
+        "Image Storage Software Development: Developed frontend and backend of an image storage platform with different user permissions to save, access, preprocess training images with Flask, MongoDB, and React."
       ]
     },
     {
@@ -80,7 +81,7 @@
       "company": "Sinon Corporation Business Groups, KSI Inc.",
       "date": "Jan. 2020 - Sep. 2020",
       "job_summary": [
-        "Government ERP System Development: Built with .NET MVC framework, MSSQL, and AngularJS, implementing hierarchical authority permissions and optimizing performance with SQL stored procedures; CRUD performed on over 100,000+ data entries per query; Deployed the system with MS IIS Web Services (Project: 5)."
+        "Government ERP System Development: Built with .NET MVC framework, MSSQL, and AngularJS, implementing hierarchical authority permissions and optimizing performance with SQL stored procedures; CRUD performed on over 100,000+ data entries per query; Deployed the system with MS IIS Web Services."
       ]
     },
     {
@@ -90,7 +91,7 @@
       "date": "Jan. 2019 - Jan. 2023",
       "job_summary": [
         "Freelance Software Business: Check out URL in 'Portfolio' section.",
-        "Delivered Projects in AI and Software: Specified in Project Experience Page (Projects: 1, 6)."
+        "Delivered Projects in AI and Software: Specified in Project Experience Page."
       ]
     }
   ],
