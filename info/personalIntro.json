@@ -54,20 +54,21 @@
   ],
   "workExperience": [
     {
-      "id": "qut",
-      "title": "Master’s Research & Projects",
-      "company": "Queensland University of Technology (QUT)",
-      "date": "Feb. 2023 - Aug. 2024",
+      "id": "raytracer",
+      "title": "Machine Learning Engineer",
+      "company": "RayTracer",
+      "date": "Nov. 2024 - Present",
       "job_summary": [
-        "ML Research: Analyzed manufacturing downtime using PCA and K-Means for dimensionality reduction, translating findings into actionable insights. ",
-        "AI Software Development: Developed a full-stack ERP system integrated with LLM & RAG pipelines via LangChain for an AI mining company. Django and SQL Stored Procedures used ensuring data performance and security."
+        "Anomaly Detection & Forecast: Designed and implemented a scalable anomaly detection system for time-series and temporal sensor data (10,000+ features, TB-scale). Utilized predictive forecasting techniques to identify anomalies in real-time.",
+        "MLOps Infrastructure: Implemented end-to-end ML pipelines using MLflow, enabling both real-time and batch inference in production environments.",
+        "ML Training Platform: Built full-stack solution (React / Flask) for real-time inference and automated hyperparameter tuning, with integrated CI/CD for deployment."
       ]
     },
     {
       "id": "spingence",
       "title": "Software Engineer",
       "company": "Spingence Technology",
-      "date": "Oct. 2020 - Jan. 2022",
+      "date": "Oct. 2020 - Jan. 2023",
       "job_summary": [
         "Industrial AI Model Training: Reduced missed detection rate by 50% within accepted overkill rate, and finetuned models for optimal yield; tested SoTA models, including classification, detection, segmentation.",
         "AI Software Development: Created frontend and backend of an edge AI Trainer with PyTorch, Flask, React, and Azure, enabling clients to train, finetune, and deploy AI models; Incorporated deployment version control tags.",
