@@ -324,10 +324,6 @@
     },
     { "category": "Databases", "skills": ["MSSQL", "MongoDB", "Reddis"] },
     {
-      "category": "Languages",
-      "skills": ["English (Native)", "Mandarin (Native)"]
-    },
-    {
       "category": "Certificates",
       "skills": [
         "Neural Networks and Deep Learning (Credential ID: VF8UQ63ZUNFW)"
