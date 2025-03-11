@@ -138,7 +138,7 @@
       "description": "This project trains a computer vision model to identify 100 different fruit classes (transfer learning of EfficientNetB2) - 9.1M parameters.",
 
       "link": "https://huggingface.co/spaces/tclin/fruit_vision_100",
-      "github": "https://github.com/andrewtclin/fruit_vision_model"
+      "github": "https://github.com/tcdjlin/fruit_vision_model"
     },
     {
       "id": "drowsiness",
@@ -148,7 +148,7 @@
 
       "link": "",
       "youtube": "https://youtu.be/KFHNxGSGBc8",
-      "github": "https://github.com/andrewtclin/drowsiness-detections/blob/master/backend/core/model/drowsiness_detection.ipynb"
+      "github": "https://github.com/tcdjlin/drowsiness-detections/blob/master/backend/core/model/drowsiness_detection.ipynb"
     },
     {
       "id": "duck",
@@ -157,7 +157,7 @@
       "description": "Deep learning model that implements YOLOv8 to segment ducks in images.",
 
       "link": "",
-      "github": "https://github.com/andrewtclin/duck-segmentation-vision/blob/master/duck-segmentation.ipynb"
+      "github": "https://github.com/tcdjlin/duck-segmentation-vision/blob/master/duck-segmentation.ipynb"
     },
     {
       "id": "aiimgcentre",
@@ -167,7 +167,7 @@
 
       "youtube": "https://youtu.be/WPQIDdTpDag",
       "link": "https://www.behance.net/gallery/174480421/AI-Image-Centre-Solution",
-      "github": "https://github.com/andrewtclin/ai_image_center_solution"
+      "github": "https://github.com/tcdjlin/ai_image_center_solution"
     },
     {
       "id": "aibrush",
@@ -175,8 +175,8 @@
       "type": "Artificial Intelligence",
       "description": "This is a prototype AI image labelling 'brush' tool, allowing to upload, label, and download labelled labels of an images with coordinates.",
 
-      "link": "https://andrewtclin.pythonanywhere.com/",
-      "github": "https://github.com/andrewtclin/ai_image_brush_tool"
+      "link": "https://tcdjlin.pythonanywhere.com/",
+      "github": "https://github.com/tcdjlin/ai_image_brush_tool"
     },
     {
       "id": "ai-trainer",
@@ -194,7 +194,7 @@
       "description": "A comprehensive data science analysis of airline company satisfaction. A ML model was trained upon utilizing the analyzed insight, obtaining the score of >90%.",
 
       "link": "",
-      "github": "https://github.com/andrewtclin/ml-airline-satisfaction-prediction/blob/master/Airline%20Satisfaction%20Analysis_Machine%20Learning%20%26%20Data%20Science.ipynb"
+      "github": "https://github.com/tcdjlin/ml-airline-satisfaction-prediction/blob/master/Airline%20Satisfaction%20Analysis_Machine%20Learning%20%26%20Data%20Science.ipynb"
     },
     {
       "id": "board-game-framework",
@@ -203,7 +203,7 @@
       "description": "Designed an extensive, comprehensive, reusuable board game framework that can be widely reused. PDF user manual available.",
 
       "link": "",
-      "github": "https://github.com/andrewtclin/board-game-framework-with-num-tic-tac-toe/blob/master/Game_Design_Manual.pdf"
+      "github": "https://github.com/tcdjlin/board-game-framework-with-num-tic-tac-toe/blob/master/Game_Design_Manual.pdf"
     },
     {
       "id": "food-shopping",
@@ -248,7 +248,7 @@
       "description": "This Covid-19 tracker was built with map and countries during the pandemic period, including number of confirmed/recovered/death cases.",
 
       "link": "https://track-covid19-jastudio.netlify.app/",
-      "github": "https://github.com/andrewtclin/covid-19-tracker"
+      "github": "https://github.com/tcdjlin/covid-19-tracker"
     },
 
     {
