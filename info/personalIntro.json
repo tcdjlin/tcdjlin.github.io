@@ -175,7 +175,7 @@
       "type": "Artificial Intelligence",
       "description": "This is a prototype AI image labelling 'brush' tool, allowing to upload, label, and download labelled labels of an images with coordinates.",
 
-      "link": "https://tcdjlin.pythonanywhere.com/",
+      "link": "https://andrewtclin.pythonanywhere.com/",
       "github": "https://github.com/tcdjlin/ai_image_brush_tool"
     },
     {
