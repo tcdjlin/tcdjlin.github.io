@@ -315,6 +315,7 @@
       "skills": [
         "HuggingFace",
         "MLFlow",
+        "Airflow",
         "Azure",
         "AWS",
         "Gitlab/GitHub",
