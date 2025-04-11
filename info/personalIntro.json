@@ -60,6 +60,7 @@
       "date": "Nov. 2024 - Present",
       "job_summary": [
         "Anomaly Detection & Forecast: Developed a scalable anomaly detection system for time-series and temporal sensor data (10,000+ features, TB-scale). Utilized predictive forecasting techniques to identify anomalies in real-time.",
+        "Audio Processing & LLMs: Engineered noise-resistant pipelines for ATC audio, tackling ultra-low SNR conditions (<5dB), followed by deep learning-based enhancement. Fine-tuned Speech-to-Text models, deployed RAG-augmented LLMs to rectify noisy transcriptions, and further optimized LLMs for ATC semantic parsing & congestion analysis.",
         "MLOps Infrastructure: Implemented end-to-end ML pipelines using MLflow & Airflow, enabling both real-time and batch inference in production environments.",
         "ML Training Platform: Built full-stack solution (React / Flask) for real-time inference and automated hyperparameter tuning, with integrated CI/CD for deployment."
       ]
