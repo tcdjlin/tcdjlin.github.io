@@ -69,7 +69,7 @@
       "id": "spingence",
       "title": "AI Engineer",
       "company": "Spingence Technology",
-      "date": "Oct. 2020 - Jan. 2022",
+      "date": "Oct. 2020 - Jan. 2023",
       "job_summary": [
         "Industrial AI Model Training: Reduced missed detection rate by 50% within accepted overkill rate, and finetuned models for optimal yield; tested SoTA models, including classification, detection, segmentation.",
         "AI Software Development: Created frontend and backend of an edge AI Trainer with PyTorch, Flask, React, and Azure, enabling clients to train, finetune, and deploy AI models; Incorporated deployment version control tags.",
