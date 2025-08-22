@@ -67,7 +67,7 @@
     },
     {
       "id": "spingence",
-      "title": "Software Engineer",
+      "title": "AI Engineer",
       "company": "Spingence Technology",
       "date": "Oct. 2020 - Jan. 2022",
       "job_summary": [
@@ -87,9 +87,9 @@
     },
     {
       "id": "jastudio",
-      "title": "Software Engineer",
+      "title": "Machine Learning Engineer",
       "company": "JAStudio Technology",
-      "date": "Feb. 2022 - Jun. 2024",
+      "date": "Jan. 2019 - Jan. 2023",
       "job_summary": [
         "AI ERP System: Fine-tuned open-source LLM and developed RAG pipeline, integrating with enterprise ERP system to automate document processing. Created AI agent interface allowing users to query documents directly, significantly streamlining information retrieval processes.",
         "DevOps & MLOps Pipeline: Architected industrial-scale CI/CD pipeline with automated compilation and production packaging via Azure Functions, implementing comprehensive testing strategies and vulnerability scanning. Established end-to-end ML lifecycle management using MLflow for model versioning and Airflow for workflow orchestration, streamlining model deployment to production."
