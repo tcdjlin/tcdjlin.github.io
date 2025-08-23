@@ -61,7 +61,7 @@
       "job_summary": [
         "Satellites Anomaly Detection: Led the development of a satellite health monitoring system processing TB-scale data from 10,000+ sensors, architecting the data backend with SQL, MongoDB, Redis, and MinIO to support a hybrid suite of PyTorch models with a Human-in-the-Loop (HITL) feedback system for continuous refinement.",
         "Aviation Audio Congestion Analysis: Designed a generative agentic AI system for noisy transmission analysis, using Spark on a Hadoop cluster for audio data ETL before fine-tuning STT and LLM models with PyTorch and LangChain.",
-        "MLOps IaaS Platform: Engineered a modular, self-service MLOps platform to automate the full ML lifecycle; orchestrated complex pipelines with Airflow, managed experiments with MLflow, and designed the distributed architecture for enterprise-grade reliability and scalability."
+        "MLOps IaaS Platform: Engineered a modular, self-service MLOps platform that supports multi-users to automate the full ML lifecycle; orchestrated complex pipelines with Airflow, managed experiments with MLflow, and designed the distributed architecture for enterprise-grade reliability and scalability."
       ]
     },
     {
