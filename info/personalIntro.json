@@ -17,19 +17,19 @@
     },
     {
       "name": "CV",
-      "link": "https://tclin.jastudio-tech.com/"
+      "link": "https://drive.google.com/file/d/16oDl6uHZiTqCTZ4N2gaJCpFiKgTQNqCO/view?usp=share_link"
     }
   ],
-  "youtube": "",
+  "youtube": "https://tclin.jastudio-tech.com/",
   "summary": "I love programming and technology! Aside from my industrial experience, I once ran my own software development business, JAStudio Technology (https://jastudio-tech.com/). I have a strong background in full-stack software development and machine learning, with experience in training AI models for industrial defect detection and developing software systems. These projects required me to apply software architectural patterns like MVC and object-oriented design patterns such as the Factory Method. For me, a career is a life ambition, and together, we can achieve remarkable milestones.",
   "cnCVs": [
     {
       "name": "Traditional Chinese",
-      "link": "https://tclin.jastudio-tech.com/"
+      "link": "https://drive.google.com/file/d/1dCNINJKG60k7q5Ymi1sbCJsaU2sXHHU6/view?usp=share_link"
     },
     {
       "name": "Simplified Chinese",
-      "link": "https://tclin.jastudio-tech.com/"
+      "link": "https://drive.google.com/file/d/1HY7ZK2mKBlnuScn660tTNfOZX5a9sLOw/view?usp=share_link"
     }
   ],
   "education": [
@@ -39,7 +39,7 @@
       "degree": "Master of IT, Computer Science",
       "Awards": [
         "3x QUT Executive Dean's Commendation for Academic Excellence (GPA: 6.83/7.0, 98%)",
-        "QUT Best Research Paper Awards 2023",
+        "QUT Best ML Research Paper Awards 2023 (Faculty Level)",
         "Selected Representative of Master of Information Technology."
       ],
       "date": "Feb. 2023 - Aug. 2024"
@@ -59,10 +59,9 @@
       "company": "RayTracer",
       "date": "Nov. 2024 - Present",
       "job_summary": [
-        "Anomaly Detection & Forecast: Developed a scalable anomaly detection system for time-series and temporal sensor data (10,000+ features, TB-scale). Utilized predictive forecasting techniques to identify anomalies in real-time.",
-        "Audio Processing & LLMs: Engineered noise-resistant pipelines for ATC audio, tackling ultra-low SNR conditions (<5dB), followed by deep learning-based enhancement. Fine-tuned Speech-to-Text models, deployed RAG-augmented LLMs to rectify noisy transcriptions, and further optimized LLMs for ATC semantic parsing & congestion analysis.",
-        "MLOps Infrastructure: Implemented end-to-end ML pipelines using MLflow & Airflow, enabling both real-time and batch inference in production environments.",
-        "ML Training Platform: Built full-stack solution (React / Flask) for real-time inference and automated hyperparameter tuning, with integrated CI/CD for deployment."
+        "Satellites Anomaly Detection: Led the development of a satellite health monitoring system processing TB-scale data from 10,000+ sensors, architecting the data backend with SQL, MongoDB, Redis, and MinIO to support a hybrid suite of PyTorch models with a Human-in-the-Loop (HITL) feedback system for continuous refinement.",
+        "Aviation Audio Congestion Analysis: Designed a generative agentic AI system for noisy transmission analysis, using Spark on a Hadoop cluster for audio data ETL before fine-tuning STT and LLM models with PyTorch and LangChain.",
+        "MLOps IaaS Platform: Engineered a modular, self-service MLOps platform to automate the full ML lifecycle; orchestrated complex pipelines with Airflow, managed experiments with MLflow, and designed the distributed architecture for enterprise-grade reliability and scalability."
       ]
     },
     {
@@ -71,9 +70,8 @@
       "company": "Spingence Technology",
       "date": "Oct. 2020 - Jan. 2022",
       "job_summary": [
-        "Industrial AI Model Training: Reduced missed detection rate by 50% within accepted overkill rate, and finetuned models for optimal yield; tested SoTA models, including classification, detection, segmentation.",
-        "AI Software Development: Created frontend and backend of an edge AI Trainer with PyTorch, Flask, React, and Azure, enabling clients to train, finetune, and deploy AI models; Incorporated deployment version control tags.",
-        "Image Storage Software Development: Developed frontend and backend of an image storage platform with different user permissions to save, access, preprocess training images with Flask, MongoDB, and React."
+        "Industrial Defect Detection: Delivered a ~50% reduction in the missed detection rate by implementing and fine-tuning SoTA computer vision models (classification, detection, segmentation) on the platform, optimizing the trade-off between model yield and overkill rate.",
+        "End-to-End Edge AI Platform: Engineered a full-stack Edge AI training and data management platform using PyTorch, Flask, React, MongoDB, and Azure. The system allows the clients to manage image datasets, train models, and deploy version-controlled solutions directly to edge devices."
       ]
     },
     {
@@ -91,8 +89,8 @@
       "company": "JAStudio Technology",
       "date": "Jan. 2019 - Jan. 2023",
       "job_summary": [
-        "AI ERP System: Fine-tuned open-source LLM and developed RAG pipeline, integrating with enterprise ERP system to automate document processing. Created AI agent interface allowing users to query documents directly, significantly streamlining information retrieval processes.",
-        "DevOps & MLOps Pipeline: Architected industrial-scale CI/CD pipeline with automated compilation and production packaging via Azure Functions, implementing comprehensive testing strategies and vulnerability scanning. Established end-to-end ML lifecycle management using MLflow for model versioning and Airflow for workflow orchestration, streamlining model deployment to production."
+        "AI Agent for ERP Systems: Engineered AI agents with tools by fine-tuning an open-source LLM with a RAG pipeline. This enabled users to perform conversational queries against business documents directly within the core ERP system, automating information retrieval.",
+        "Industrial-Scale CI/CD & MLOps: Architected a complete CI/CD pipeline using Azure Functions for automated builds, vulnerability scanning, and production packaging. Separately, established the end-to-end MLOps lifecycle, using MLflow for model versioning and Airflow for orchestrating complex deployment workflows."
       ]
     }
   ],
