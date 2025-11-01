@@ -80,7 +80,7 @@
       "company": "Sinon Corporation Business Groups, KSI Inc.",
       "date": "Jan. 2019 - Sep. 2020",
       "job_summary": [
-        "Government ERP System Development: Built with .NET MVC framework, MSSQL, and AngularJS, implementing hierarchical authority permissions and optimizing performance with SQL stored procedures; CRUD performed on over 100,000+ data entries per query; Deployed the system with MS IIS Web Services."
+        "Government Smart ERP System: Implemented SoA ML techniques of the time (e.g., Bag-of-Words and n-grams) to ERP systems. Built with .NET MVC, MSSQL, and AngularJS; optimized performance with SQL stored procedures; CRUD performed on over 100,000+ data entries per query."
       ]
     },
     {
