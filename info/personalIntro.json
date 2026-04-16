@@ -59,9 +59,9 @@
       "company": "Raytracer",
       "date": "Nov. 2024 - Present",
       "job_summary": [
-        "Satellites Anomaly Detection: Led end-to-end delivery of a production satellite health monitoring system processing TB-scale time-series telemetry from 10,000+ sensors; architected the distributed backend on SQL, MongoDB, Redis, and MinIO to power PyTorch anomaly models with Human-in-the-Loop (HITL) retraining.",
-        "GenAI Aviation Audio Congestion Analysis: Designed an agentic GenAI system for noisy ATC transmission analysis; ran audio ETL on Spark/Hadoop before fine-tuning speech-to-text (STT) and LLM models with PyTorch and LangChain.",
-        "MLOps IaaS Platform: Engineered a modular multi-tenant MLOps platform that lets users self-configure the full ML lifecycle - ingestion, training, evaluation, deployment; orchestrated pipelines with Airflow, tracked experiments and registered models via MLflow, and designed distributed architecture for enterprise-grade reliability and scalability."
+        "Satellites Anomaly Detection: Technical lead of a 4-engineer team and delivering company’s exemplar project with client engagement - a satellite monitoring system over TB-scale time-series telemetry from 10,000+ sensors; ran client architecture reviews and drove PyTorch models, HITL retraining, and a distributed SQL, MongoDB, MinIO backend.",
+        "MLOps IaaS Platform: Led architecture of a modular multi-tenant MLOps platform - letting users self-configure the full ML lifecycle (ingestion, training, evaluation, deployment); orchestrated Airflow pipelines, tracked experiments via MLflow, mentored engineers through distributed implementation for enterprise reliability.",
+        "GenAI Aviation Audio Congestion Analysis: Partnered with aviation safety authority to build a GenAI system for audio analysis; ran audio ETL via Spark/Hadoop, fine-tuned speech-to-text and LLM models with PyTorch and LangChain."
       ]
     },
     {
@@ -70,8 +70,8 @@
       "company": "Spingence Technology",
       "date": "Oct. 2020 - Jan. 2022",
       "job_summary": [
-        "Industrial Defect Detection: Delivered ~50% reduction in missed detection rate by fine-tuning SoTA computer vision models (classification, object detection, segmentation), optimizing the yield vs. overkill trade-off for semiconductor AOI.",
-        "End-to-End AI Platform: Built a full-stack edge AI training and data management platform with PyTorch, Flask, React, MongoDB, and Azure, where clients manage datasets, train computer vision models, and deploy them to edge devices."
+        "Industrial Defect Detection: Delivery of ~50% reduction in missed detection rate for semiconductor clients by fine-tuning SoTA computer vision models, optimizing the yield vs. overkill trade-off for AOI.",
+        "End-to-End AI Platform: Led build of a full-stack edge AI training and data management platform with PyTorch, Flask, React, MongoDB, and Azure, where clients independently manage datasets, train AI models, and deploy to edge devices."
       ]
     },
     {
@@ -80,7 +80,7 @@
       "company": "Sinon Corporation Business Groups, KSI Inc.",
       "date": "Jan. 2019 - Sep. 2020",
       "job_summary": [
-        "Government Smart ERP System: Applied NLP and ML techniques (Bag-of-Words, n-grams) to power ERP predictive features; built with Scikit-Learn, .NET MVC, MSSQL, and AngularJS; tuned performance via SQL stored procedures."
+        "Government Smart ERP System: Applied NLP techniques to power ERP predictive features; built accounting ERP system with Scikit-Learn, .NET MVC, MSSQL, and AngularJS; tuned data query performance via SQL stored procedures."
       ]
     },
     {
