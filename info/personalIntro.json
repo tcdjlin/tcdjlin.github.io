@@ -59,7 +59,7 @@
       "company": "Raytracer",
       "date": "Nov. 2024 - Present",
       "job_summary": [
-        "Satellites Anomaly Detection: Technical lead of a 4-engineer team and delivering company’s exemplar project with client engagement - a satellite monitoring system over TB-scale time-series telemetry from 10,000+ sensors; ran client architecture reviews and drove PyTorch models, HITL retraining, and a distributed SQL, MongoDB, MinIO backend.",
+        "Satellites Anomaly Detection: Technical lead of a 4-engineer team and delivering company’s exemplar project - a satellite monitoring system over TB-scale time-series telemetry from 10,000+ sensors; ran client architecture reviews and drove PyTorch models, HITL retraining, and a distributed SQL, MongoDB, MinIO backend.",
         "MLOps IaaS Platform: Led architecture of a modular multi-tenant MLOps platform - letting users self-configure the full ML lifecycle (ingestion, training, evaluation, deployment); orchestrated Airflow pipelines, tracked experiments via MLflow, mentored engineers through distributed implementation for enterprise reliability.",
         "GenAI Aviation Audio Congestion Analysis: Partnered with aviation safety authority to build a GenAI system for audio analysis; ran audio ETL via Spark/Hadoop, fine-tuned speech-to-text and LLM models with PyTorch and LangChain."
       ]
