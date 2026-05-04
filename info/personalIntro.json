@@ -21,7 +21,7 @@
     }
   ],
   "youtube": "https://tclin.jastudio-tech.com/",
-  "summary": "I love programming and technology! Aside from my industrial experience, I once ran my own software development business, JAStudio Technology (https://jastudio-tech.com/). I have a strong background in full-stack software development and machine learning, with experience in training AI models for industrial defect detection and developing software systems. These projects required me to apply software architectural patterns like MVC and object-oriented design patterns such as the Factory Method. For me, a career is a life ambition, and together, we can achieve remarkable milestones.",
+  "summary": "Lead ML Engineer & former Software Founder specializing in high-reliability production AI systems (Aerospace, Industry 4.0, Government). Proven track record of delivering customized AI models, agentic workflows, and end-to-end MLOps systems for world-prestigious enterprise clients such as Optus, CASA, and NASA.",
   "cnCVs": [
     {
       "name": "Traditional Chinese",
@@ -60,6 +60,7 @@
       "date": "Nov. 2024 - Present",
       "job_summary": [
         "Satellites Anomaly Detection: Technical lead of a 4-engineer team and delivering company’s exemplar project - a satellite monitoring system over TB-scale time-series telemetry from 10,000+ sensors; ran client architecture reviews and drove PyTorch models, HITL retraining, and a distributed SQL, MongoDB, MinIO backend.",
+        "Agentic AI Workforce: Technical lead of a multi-agent LLM orchestration engine using LangGraph and FastAPI, routing asynchronous events via Redis/RabbitMQ. Engineered localized '.md' context-jails to minimize token bloat.",
         "MLOps IaaS Platform: Led architecture of a modular multi-tenant MLOps platform - letting users self-configure the full ML lifecycle (ingestion, training, evaluation, deployment); orchestrated Airflow pipelines, tracked experiments via MLflow, mentored engineers through distributed implementation for enterprise reliability.",
         "GenAI Aviation Audio Congestion Analysis: Partnered with aviation safety authority to build a GenAI system for audio analysis; ran audio ETL via Spark/Hadoop, fine-tuned speech-to-text and LLM models with PyTorch and LangChain."
       ]
